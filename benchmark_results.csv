@@ -1,0 +1,9 @@
+"file_name","file_size_mb","loading_tool","loading_time_seconds"
+"timss_8_2019_uncompressed.dta",40379.9946165085,"Stata",18.398
+"timss_8_2019_compressed.dta",10199.9826917648,"Stata",10.993
+"timss_8_2019.Rdata",562.666722297668,"R load()",68.7859999999999
+"timss_8_2019_uncompressed.csv",15765.9161043167,"R data.table::fread()",269.467
+"timss_8_2019.rds",562.666540145874,"R readRDS()",66.681
+"timss_8_2019.feather",1070.52494239807,"R arrow::read_feather()",10.8319999999999
+"timss_8_2019.parquet",768.495473861694,"R arrow::read_parquet()",9.343
+"timss_8_2019_compressed.csv",7141.14200210571,"R data.table::fread()",1111.147
